@@ -1,13 +1,13 @@
 # Awesome README Templates
 A collection of awesome readme templates to display on your github profile.
 
-This repo aims to collect the all `awesome beautiful READMEs profile` and discover to other developers.
+This repo aims to collect the all `awesome beautiful READMEs profile` and make your Profile look good & Inspire other's.
 
-If you are intersted, add your README profile here.
+If you are intersted, will create a PR for to add your `README` profile here.
 
 If you like this Repo, Please click the :star:
 
-List of awesome README Profile categories mentioned below
+List of `awesome README Profile` categories mentioned below
 
 - [ ] [Art](art)
 - [ ] [Code Styled](code-styled)
