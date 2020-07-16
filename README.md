@@ -8,7 +8,7 @@
 <a href="https://github.com/elangosundar/awesome-README-templates/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/elangosundar/awesome-README-templates?color=2b9348"></a>
 <a href="https://github.com/elangosundar/awesome-README-templates/blob/master/LICENSE"><img src="https://img.shields.io/github/license/elangosundar/awesome-README-templates?color=2b9348" alt="License Badge"/></a>
 </div>
-
+<br>
 This repo aims to collect the all `awesome beautiful READMEs profile` and make your Profile look good & Inspire other's.
 
 If you are intersted, will create a PR for to add your `README` profile here.
