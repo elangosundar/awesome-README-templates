@@ -32,5 +32,11 @@ List of `awesome README Profile` categories mentioned below
 # List out `Awesome README Profile` Tools
 
 - [Profile Summary For Github](https://profile-summary-for-github.com/search)
+- [Github Readme Stats](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - Dynamically generated stats for your github readmes
+- [Profile Activity Generator](https://github.com/omidnikrah/profile-activity-generator) - Generate custom profile activity for your profile README
 
 # List out `Awesome README Profile` Articles
+
+# Contribute
+
+Contributions are always welcome! Please create a PR to add Github Profile.
