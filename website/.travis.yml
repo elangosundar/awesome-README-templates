@@ -1,0 +1,10 @@
+# language: node_js
+# os:
+#   - linux
+
+# node_js:
+#   - stable
+
+# script:
+#   - yarn build
+#   - bash ./script/deploy-to-gh-pages.sh

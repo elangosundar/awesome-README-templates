@@ -1,0 +1,466 @@
+:root {
+  --primary-color-1: #484389;
+  --primary-color-2: #6e60cc;
+  --secondary-color-1: #007bff;
+  --tertiary-color-1: #ced4da;
+  --white: #fff;
+  --black: #000;
+}
+
+body {
+  padding: 0;
+  margin: 0 auto !important;
+  width: 100%;
+  font-family: sans-serif;
+}
+
+.modal-content {
+  background-color : linear-gradient( 165deg, #6e60cc, #484389) !important;
+}
+
+@media screen and (max-width: 767px) {
+  .empty-state {
+    width: 100% !important;
+    margin-top: 2rem !important;
+  }
+
+  .empty-state svg {
+    width: 15rem;
+  }
+
+  .empty-state p {
+    font-size: 26px !important;
+  }
+}
+
+@media screen and (max-width: 998px) {
+  body {
+    width: 100% !important;
+    overflow-x: hidden;
+  }
+
+  .navbar-collapse {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .navbar-nav.mr-auto {
+    margin-right: 0 !important;
+  }
+
+  .navbar-collapse .form-inline {
+    order: 3;
+  }
+
+  .loadMore button {
+    margin: 20px 10px;
+  }
+}
+
+i {
+  font-size: 4em;
+  margin-right: 0.3em;
+  display: inline-block;
+}
+
+.mentor-img-thumbnail {
+  padding: 0.25rem;
+  /* background-color: #fff; */
+  /* border: 1px solid #dee2e6; */
+  border-radius: 0.25rem;
+  max-width: 100%;
+  /* height: auto; */
+  height: 200px;
+  object-fit: contain;
+  object-position: center;
+}
+.App {
+  text-align: center;
+}
+.App-logo {
+  height: 80px;
+}
+.App-header {
+  padding: 20px;
+  color: white;
+}
+.App-title {
+  font-size: 1.5em;
+}
+.App-intro {
+  font-size: large;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.thememain-header {
+  background: linear-gradient(
+    165deg,
+    var(--primary-color-2),
+    var(--primary-color-1)
+  ) !important;
+  color: #fff !important;
+}
+
+.w-100 {
+  height: 400px;
+}
+
+.login {
+  margin-right: 10px;
+  background-color: none !important;
+}
+
+.product {
+  background-color: none;
+  width: 300px;
+  height: 450px;
+  margin-top: 50px;
+  border: 1px solid black;
+  padding: 25px;
+  margin: 25px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.card-img-top {
+  height: 300px;
+  width: 300px;
+}
+
+.input {
+  width: 70% !important;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text-center {
+  display: block;
+}
+
+.modal-content {
+  background-color: var(--tertiary-color-1) !important;
+}
+
+.ErrorMessage {
+  color: rgb(197, 0, 0);
+  font: bold;
+  margin-bottom: 5%;
+  text-align: center;
+}
+
+.userName {
+  text-align: center;
+  margin-right: 10px;
+}
+
+.card {
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  /* width: 320px;
+    height: 420px; */
+  position: relative;
+  background: #fff;
+  color: #758f9b;
+  border-radius: 5px;
+  box-shadow: 0px 15px 40px rgba(0, 0, 0, 0.05);
+  border: none;
+  margin-bottom: 5px;
+  text-align: left;
+  transition: all 0.25s ease-in-out;
+  min-height: 300px;
+}
+
+.card:hover {
+  box-shadow: 0px 20px 40px 0px rgba(0, 0, 0, 0.15);
+  text-decoration: none;
+  transform: translateY(-5px);
+}
+
+.card .content-card {
+  padding-top: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.card-link {
+  color: black;
+}
+
+.card-link :hover {
+  color: black;
+}
+.card h3 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+.card p {
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.thumbnail {
+  width: 60%;
+}
+
+.card .tags {
+  display: inline-flex;
+  background-color: var(--primary-color-1);
+  color: white;
+  font-size: 12px;
+  font-weight: 500;
+  margin: 3px;
+  padding: 3px 6px;
+  border-radius: 0.6rem;
+}
+
+.card-link .tags :hover {
+  color: white;
+}
+.card .bottom-info {
+  font-size: 14px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 1em;
+  padding-left: 1em;
+}
+
+.productItems {
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid var(--tertiary-color-1);
+}
+
+.productDetailsPage {
+  padding-top: 10px;
+}
+
+.productDetailsPage .productImage {
+  border: 1px solid #ced4da;
+  margin: 28px;
+  margin-top: 1px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.productDesc h3 {
+  float: left;
+}
+
+.productLeftImage {
+  padding: 10px;
+}
+
+.product-Top {
+  margin-top: 9px;
+}
+
+#recording-instructions {
+  text-align: left;
+  padding-left: 15px;
+}
+
+.labelBold {
+  font-weight: bold !important;
+}
+
+#navbarTogglerDemo02 .form-inline {
+  padding-right: 15px;
+}
+
+.loginCheck {
+  color: red;
+}
+
+.logoColor {
+  color: #bd2130 !important;
+  font-weight: bold;
+  font-size: 30px !important;
+}
+
+.title {
+  color: var(--white) !important;
+}
+
+.navbar {
+  color: var(--white) !important;
+}
+
+.navbar-collapse {
+  color: var(--white) !important;
+}
+
+.navbar a {
+  color: var(--white) !important;
+}
+
+.navbar-link {
+  transition: transform 0.4s;
+}
+
+.navbar-link:hover {
+  transform: translateY(-2px);
+  box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.15);
+}
+
+.whiteColor {
+  color: var(--white) !important;
+}
+
+.loadMore button {
+  background: linear-gradient(
+    165deg,
+    var(--primary-color-2),
+    var(--primary-color-1)
+  );
+  color: var(--white);
+  width: 60vh;
+  padding: 20px;
+  margin: 20px auto;
+  font-weight: 600;
+  border: none;
+}
+
+.heart-container {
+  cursor: pointer;
+  display: flex;
+}
+
+.heart-container:hover {
+  color: var(--secondary-color-1);
+}
+
+.heart {
+  font-size: 1rem;
+  margin-right: 5px;
+}
+
+.like-count {
+  font-size: 1rem;
+}
+
+.like-count:hover {
+  color: var(--secondary-color-1);
+}
+
+.dropdown {
+  margin-bottom: 10px;
+}
+.social-media {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-top: 1px solid var(--tertiary-color-1);
+  margin-left: -10px;
+  margin-right: -10px;
+  padding: 10px;
+}
+
+.filter-set {
+  font-weight: 100;
+  font-size: 20px;
+}
+
+.filter-header {
+  font-weight: 100;
+  font-size: 40px;
+  letter-spacing: 2px;
+  border-bottom: 1px solid black;
+}
+
+.empty-state {
+  width: 70%;
+  margin: 5px auto;
+}
+
+.empty-state p {
+  margin-top: 10px;
+  text-transform: capitalize;
+  font-weight: 100;
+  font-size: 40px;
+  letter-spacing: 2px;
+  color: var(--tertiary-color-1);
+}
+
+/* @media screen and (min-width: 575px) {
+  .thememain-white {
+    
+  }
+} */
+
+.Footer {
+  background-color: #6A5DC6;
+  margin-top: 15px;
+  font-size: 1rem;
+  color: #fff;
+  display: flex;
+  flex-direction: row;
+  height: 5vh;
+  justify-content: space-evenly;
+  align-items: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.Footer a {
+  color: white;
+}
+
+.navbar-nav {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+.profileView {
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.profileView .left {
+  width: 75%;
+}
+
+.profileView .right {
+  float:right
+}
+
+.navbar a {
+  box-shadow: none;
+}
+
+.navbar-nav li .nav-item {
+  border-bottom: none;
+  margin-bottom: none !important;
+}
+
+.categoryView {
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.categoryView, .profileView {
+  color: rgb(240, 94, 94)
+}
