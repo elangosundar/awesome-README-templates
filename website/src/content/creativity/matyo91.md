@@ -2,7 +2,7 @@
 title: matyo91
 date: '2020-01-05'
 spoiler: API Testing tools
-categories: ["tools", "creativity"]
+categories: ["creativity", "all-profile"]
 githubUsername: 'matyo91'
 ---
 
