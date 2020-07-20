@@ -3,7 +3,7 @@ module.exports = {
     title: 'awesome-github-profile',
     author: 'Elangovan',
     description: 'A collection of awesome readme templates',
-    siteUrl: '',
+    siteUrl: 'https://elangovan.in',
     social: {
       twitter: '@elango_sundar',
     },
