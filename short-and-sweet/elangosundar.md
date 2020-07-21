@@ -1,3 +1,11 @@
+---
+title: elangosundar
+date: '2020-14-05'
+spoiler: Short and Sweet Realtime Readme Template
+categories: ["short-and-sweet", "all-profile"]
+githubUsername: 'elangosundar'
+---
+
 ### Hi there 👋
 
 I'm Elangovan. I'm a Full Stack Developer who is passionate about making open-source projects, creating technology to elevate people, and building community.

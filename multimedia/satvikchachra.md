@@ -1,3 +1,11 @@
+---
+title: satvikchachra
+date: '2020-14-05'
+spoiler: Multimedia Realtime Readme Template
+categories: ["multimedia", "all-profile"]
+githubUsername: 'satvikchachra'
+---
+
 ### Hello World! 😍
 
 <img src = "https://media.giphy.com/media/mCb6M76Nr88mNf4Iih/giphy.gif">

@@ -1,3 +1,11 @@
+---
+title: sudiptog81
+date: '2020-14-05'
+spoiler: Code Styled Readme Template
+categories: ["code-styled", "all-profile"]
+githubUsername: 'sudiptog81'
+---
+
 # Sudipto Ghosh 👨‍💻
 
 [![ACM](https://img.shields.io/badge/-ACM%20Student%20Member-222222?style=flat-square&logo=acm&logoColor=white&link=http://member.acm.org/~sudiptoghosh)](http://member.acm.org/~sudiptoghosh)

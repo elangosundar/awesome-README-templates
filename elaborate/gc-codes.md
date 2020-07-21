@@ -1,3 +1,11 @@
+---
+title: TheYouthProject
+date: '2020-14-05'
+spoiler: Elaborate Realtime Readme Template
+categories: ["elaborate", "all-profile"]
+githubUsername: 'TheYouthProject'
+---
+
 # Gaurav Chouhan 😃
 Independent Sr. Software Consultant | Community Speaker | Co-Founder @ [TheYouthProject](https://github.com/TheYouthProject) | Embracing Technology | Creating Experiences
 

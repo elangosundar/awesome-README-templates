@@ -1,3 +1,11 @@
+---
+title: stephenajulu
+date: '2020-14-05'
+spoiler: Elaborate Realtime Readme Template
+categories: ["elaborate", "all-profile"]
+githubUsername: 'stephenajulu'
+---
+
 ## [![stephen ajulu's header](https://github.com/stephenajulu/stephenajulu/blob/master/edited%20header.png)](https://stephenajulu.com)
 
 <p align='center'>

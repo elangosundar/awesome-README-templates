@@ -1,3 +1,11 @@
+---
+title: rodrigograca31
+date: '2020-14-05'
+spoiler: Multimedia Realtime Readme Template
+categories: ["multimedia", "all-profile"]
+githubUsername: 'rodrigograca31'
+---
+
 <!--
 Hi! This is an easter egg.
 Congratulations you found the first one!

@@ -1,3 +1,11 @@
+---
+title: Mangamaui
+date: '2020-14-05'
+spoiler: Elaborate Realtime Readme Template
+categories: ["elaborate", "all-profile"]
+githubUsername: 'Mangamaui'
+---
+
 ![women dot code be](https://raw.githubusercontent.com/Mangamaui/Mangamaui/master/cover.png)
 
 

@@ -1,3 +1,11 @@
+---
+title: jose-renato-m
+date: '2020-14-05'
+spoiler: Multimedia Realtime Readme Template
+categories: ["multimedia", "all-profile"]
+githubUsername: 'jose-renato-m'
+---
+
 <h1 align="center">
   <img src="https://ik.imagekit.io/dfw3q47dv0/SW_bad_feeling_-Mvspio6t.gif" />
 </h1>

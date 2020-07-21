@@ -1,3 +1,10 @@
+---
+title: anuraghazra
+date: '2020-14-05'
+spoiler: Dynamic Realtime Readme Template
+categories: ["dynamic-realtime", "all-profile"]
+githubUsername: 'anuraghazra'
+---
 ### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋
 
 <a href="https://codesandbox.io/u/anuraghazra">

@@ -1,3 +1,11 @@
+---
+title: jojonicho
+date: '2020-14-05'
+spoiler: Multimedia Realtime Readme Template
+categories: ["multimedia", "all-profile"]
+githubUsername: 'jojonicho'
+---
+
 <p align="center">
   <img src="https://i.imgur.com/IyjFcq1.png" width="200px">
   <br>

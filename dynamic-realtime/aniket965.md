@@ -1,3 +1,11 @@
+---
+title: Aniket965
+date: '2020-14-05'
+spoiler: Dynamic Realtime Readme Template
+categories: ["dynamic-realtime", "all-profile"]
+githubUsername: 'Aniket965'
+---
+
 # 👋🏻 Hey,
 <div align="center">
 	<br>

@@ -1,3 +1,11 @@
+---
+title: marcduiker
+date: '2020-14-05'
+spoiler: Elaborate Realtime Readme Template
+categories: ["elaborate", "all-profile"]
+githubUsername: 'marcduiker'
+---
+
 # 👋 
 
 Hi, I'm Marc Duiker and I ❤ Serverless, DevCommunity, and Creative Coding! 😊

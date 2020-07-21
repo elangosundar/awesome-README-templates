@@ -1,3 +1,10 @@
+---
+title: sidbelbase
+date: '2020-14-05'
+spoiler: Code Styled Readme Template
+categories: ["code-styled", "all-profile"]
+githubUsername: 'sidbelbase'
+---
 
 <img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
 

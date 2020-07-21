@@ -1,3 +1,11 @@
+---
+title: anishLearnsToCode
+date: '2020-14-05'
+spoiler: Code Styled Readme Template
+categories: ["code-styled", "all-profile"]
+githubUsername: 'anishLearnsToCode'
+---
+
 ````bash
 > help --info
 > A potterhead and greek mythology enthusianst who mainly programs in Java and has recently ventured out into Python. Is

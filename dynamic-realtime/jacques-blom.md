@@ -1,3 +1,11 @@
+---
+title: jacques-blom
+date: '2020-14-05'
+spoiler: Dynamic Realtime Readme Template
+categories: ["dynamic-realtime", "all-profile"]
+githubUsername: 'jacques-blom'
+---
+
 ### Hi! 👋
 
 I'm a full stack software engineer. 🏗

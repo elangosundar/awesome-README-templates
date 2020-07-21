@@ -1,3 +1,11 @@
+---
+title: sampoder
+date: '2020-14-05'
+spoiler: Multimedia Realtime Readme Template
+categories: ["multimedia", "all-profile"]
+githubUsername: 'sampoder'
+---
+
 <h1 align="left">👋 Welcome to my makerspace!</h3>
 
 <p align="left">

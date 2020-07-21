@@ -1,3 +1,11 @@
+---
+title: Gaboso
+date: '2020-14-05'
+spoiler: Multimedia Realtime Readme Template
+categories: ["multimedia", "all-profile"]
+githubUsername: 'Gaboso'
+---
+
 ## Hi I'm Gaboso :fox_face:
 
 ![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
