@@ -47,7 +47,7 @@ Link : https://awesome-github-readme-profile.netlify.app
 # List out `Awesome README Profile` Tools
 
 - [Profile Summary For Github](https://profile-summary-for-github.com/search)
-- [Github Readme Stats](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - Dynamically generated stats for your github readmes
+- [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes
 - [Profile Activity Generator](https://github.com/omidnikrah/profile-activity-generator) - Generate custom profile activity for your profile README
 
 # List out `Awesome README Profile` Articles
