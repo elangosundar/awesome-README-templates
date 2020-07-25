@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 -->
 
 
-⭐️ From `[garimasingh128](https://github.com/[garimasingh128])`
+⭐️ From `[garimasingh128](https://github.com/garimasingh128)`
