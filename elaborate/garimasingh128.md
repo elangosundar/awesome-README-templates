@@ -1,3 +1,11 @@
+---
+title: garimasingh128
+date: 2020-25-07
+spoiler: Elaborate Readme Template
+categories: ["elaborate", "all-profile"]
+githubUsername: 'garimasingh128'
+---
+
 # Hello, geeks! 👋
 
 I am Garima Singh. I consider myself as a smart worker and determined team player. I am an experienced developer skilled in C++, Java, Android Development, Full Stack Development, Machine learning, MERN, Javascript and its frameworks.
@@ -39,3 +47,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+⭐️ From `[garimasingh128](https://github.com/[garimasingh128])`
