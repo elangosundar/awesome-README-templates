@@ -7,8 +7,7 @@ import mentorImage from '../assets/mentor-default.svg';
 
 class ProfileList extends Component {
   render() {
-    const { title, count } = this.props;
-    // const techs = data.technology.split(",").filter(tech => tech.length !== 0).sort();
+    const { title, count, image } = this.props;
 
     return (
         <div className="col-sm-3 ">
@@ -18,7 +17,7 @@ class ProfileList extends Component {
                 >
                     <div className="text-center">
                         <ReactImageFallback
-                            src={mentorImage}
+                            src={image}
                             fallbackImage={mentorImage}
                             initialImage={loader}
                             alt={this.props.title}
