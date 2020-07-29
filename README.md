@@ -9,7 +9,7 @@
 <a href="https://github.com/elangosundar/awesome-README-templates/blob/master/LICENSE"><img src="https://img.shields.io/github/license/elangosundar/awesome-README-templates?color=2b9348" alt="License Badge"/></a>
 </div>
 <br>
-<p align="center"><i>Loved the project? Please visit our [Website](https://awesome-github-readme-profile.netlify.app)</i></p>
+<p align="center"><i>Loved the project? Please visit our <a href="https://awesome-github-readme-profile.netlify.app">Website</a></i></p>
 <br>
 This repo aims to collect the all `awesome beautiful READMEs profile` and make your Profile look good & Inspire other's.
 
