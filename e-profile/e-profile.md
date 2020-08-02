@@ -1,6 +1,16 @@
+---
+title: e-profile
+date: '2020-2-8'
+spoiler: e-profile template Styled
+categories: ["e-profile", "github"]
+githubUsername: 'MoralistFestus'
+---
+
+
+
 # Hi, there ✋
 <hr>
-<img align="left" src="https://github.com/MoralistFestus/awesome-README-templates/blob/master/e-profile/avataaars.png" alt="I am a developer" width="200">
+<img align="right" src="https://raw.githubusercontent.com/MoralistFestus/MoralistFestus/master/avataaars.png" alt="I am a developer" width="60"><em>I am developer, I love contributing to open source projects, helping developers around the world. Add some texts here for description.</em>
 
 ## Hi, I'm A dev 👋🏾‍💻
 
