@@ -1,6 +1,6 @@
 # Hi, there ✋
 <hr>
-<img align="right" src="https://raw.githubusercontent.com/MoralistFestus/MoralistFestus/master/avataaars.png" alt="I am a developer" width="60"><em>I am developer, I love contributing to open source projects, helping developers around the world. Add some texts here for description.</em>
+<img align="left" src="https://github.com/MoralistFestus/awesome-README-templates/blob/master/e-profile/avataaars.png" alt="I am a developer" width="200">
 
 ## Hi, I'm A dev 👋🏾‍💻
 
