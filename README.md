@@ -67,6 +67,7 @@ Link : https://awesome-github-readme-profile.netlify.app
 - [Feedparser](https://pythonhosted.org/feedparser/) - Convenient processing of RSS files
 - [Github Profile README Generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - This project allows you to create nice and simple github profile readme files.
 - [Github Gist Count Generator](https://github.com/lifeparticle/Gist-Count) - Get gist count for your github readmes.
+- [PageSpeed score](https://github.com/ankurparihar/readme-pagespeed-insights) - Get your website's pagespeed score in animated svg form which can be added to readme.
 
 # List out `Awesome README Profile` Articles
 
