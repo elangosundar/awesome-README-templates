@@ -1,3 +1,11 @@
+---
+title: verma-anushka
+date: "2020-23-08"
+spoiler: Creativity Readme Template
+categories: ["creativity", "all-profile"]
+githubUsername: "verma-anushka"
+---
+
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
 I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an experienced full stack web developer and technical writer with a demonstrated history of working in the information technology and services industry.
@@ -64,6 +72,8 @@ I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an exper
 
   <p align="center">
     Show ❤️ by starring repositories you find good! 
+    <br />
+    ⭐️ From [Anushka Verma](https://github.com/verma-anushka)
     <br />
     Also, star and fork this repository if you wish to give this new feature a try!
   </p>
