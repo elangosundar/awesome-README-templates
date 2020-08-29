@@ -1,6 +1,6 @@
 ---
 title: AdamAlston
-date: 2020-03-08
+date: 2020-29-08
 spoiler: Creativity Readme Template
 categories: ["creativity", "all-profile"]
 githubUsername: 'adamalston'
@@ -8,16 +8,6 @@ githubUsername: 'adamalston'
 
 [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-**Hi, I'm Adam**
-
--   :mortar_board: Recent computer science graduate from UNC - Chapel Hill
--   :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
--   :ringed_planet: Looking forward to global net zero, Mars & the rest of space, and nuclear fusion
--   :mailbox: Ask me about accessibility, cybersecurity, web, full stack, or literally anything!
-
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adamalston)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
 [![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
 
 **Languages I have used**
@@ -44,26 +34,32 @@ githubUsername: 'adamalston'
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
-![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)
+![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)<!-- wi*quL3fcV -->
 
-**Some of my favorite open source projects**
+**Web/Full Stack projects**
 
-[![Bitwarden](https://img.shields.io/badge/-Bitwarden-000000?style=flat&logo=bitwarden&logoColor=175DDC)](https://github.com/bitwarden/browser)
-[![Dark Reader](https://img.shields.io/badge/-Dark&#160;Reader-000000?style=flat&logo=Dark-Reader&logoColor=FFFFFF)](https://github.com/darkreader/darkreader)
-[![uBlock Origin](https://img.shields.io/badge/-uBlock&#160;Origin-000000?style=flat&logo=UBlock-Origin&logoColor=800000)](https://github.com/gorhill/uBlock)
-[![MEGA](https://img.shields.io/badge/-MEGA-000000?style=flat&logo=mega&logoColor=D9272E)](https://github.com/meganz/webclient)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-[![Tor](https://img.shields.io/badge/-Tor-000000?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
+[![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://github.com/adamalston/v2)
+[![COVID-19 Dashboard](https://img.shields.io/badge/-🦠&nbsp;COVID&#8209;19&nbsp;Dashboard-000000?style=flat)](https://github.com/adamalston/COVID-19-Dashboard)
+[![Summarizer](https://img.shields.io/badge/-📰&nbsp;&nbsp;Summarizer-000000?style=flat)](https://github.com/adamalston/Summarizer)
+[![Voice Poker](https://img.shields.io/badge/-🃏&nbsp;Voice&nbsp;Poker-000000?style=flat)](https://github.com/adamalston/Poker)
+[![PokémonGo Map](https://img.shields.io/badge/-🗺️&nbsp;PokémonGo&nbsp;Map-000000?style=flat)](https://github.com/adamalston/PokemonGo-Map)
 
-<!-- wi*quL3fcV -->
+**Cybersecurity projects**
 
-**Fun fact: I once answered the world's oldest question with a single line of JavaScript**
+[![Heartbleed](https://img.shields.io/badge/-🩸&nbsp;Heartbleed-000000?style=flat)](https://github.com/adamalston/Heartbleed)
+[![SYN Flood](https://img.shields.io/badge/-🌊&nbsp;&nbsp;SYN&nbsp;Flood-000000?style=flat)](https://github.com/adamalston/SYN-Flood)
+[![Packet Sniffing & Spoofing](https://img.shields.io/badge/-🗃️&nbsp;Packet&nbsp;Sniffing&nbsp;&&nbsp;Spoofing-000000?style=flat)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
+[![SQL Injection](https://img.shields.io/badge/-💉&nbsp;&nbsp;SQL&nbsp;Injection-000000?style=flat)](https://github.com/adamalston/SQL-Injection)
+[![Spectre & Meltdown](https://img.shields.io/badge/-🛡️&nbsp;Spectre&nbsp;&&nbsp;Meltdown-000000?style=flat)](https://github.com/adamalston/Meltdown-Spectre)
 
-```javascript
-// Which came first: the chicken or the egg?
-console.log(["🥚", "🐣", "🐥", "🐔"].sort())
+**Other projects**
 
->>> ["🐔", "🐣", "🐥", "🥚"];
-```
+[![Clean My Mac](https://img.shields.io/badge/-🧼&nbsp;&nbsp;Clean&nbsp;My&nbsp;Mac-000000?style=flat)](https://github.com/adamalston/Clean-My-Mac)
+[![SMTP](https://img.shields.io/badge/-📧&nbsp;&nbsp;SMTP-000000?style=flat)](https://github.com/adamalston/SMTP)
+[![Network Tools](https://img.shields.io/badge/-📡&nbsp;&nbsp;Network&nbsp;Tools-000000?style=flat)](https://github.com/adamalston/Network-Tools)
+[![Cache Simulator](https://img.shields.io/badge/-⛓️&nbsp;Cache&nbsp;Simulator-000000?style=flat)](https://github.com/adamalston/CacheSimulator)
+[![RGB Text Colorizer](https://img.shields.io/badge/-🌈&nbsp;&nbsp;RGB&nbsp;Text&nbsp;Colorizer-000000?style=flat)](https://github.com/adamalston/rgbTextColorizer)
+
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
 
 ⭐️ From [AdamAlston](https://github.com/adamalston)
