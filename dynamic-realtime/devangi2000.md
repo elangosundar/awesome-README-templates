@@ -1,3 +1,12 @@
+---
+title: devangi2000
+date: 2020-10-07
+spoiler: dynamic-realtime
+categories: ["dynamic-realtime", "all-profile"] 
+githubUsername: 'devangi2000'
+---
+
+
 
 ### Hey 👋🏽, I'm [Devangi!](https://devangi2000.github.io) 
 
