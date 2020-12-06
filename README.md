@@ -50,6 +50,7 @@ Link : https://awesome-github-readme-profile.netlify.app
 
 - [Profile Summary For Github](https://profile-summary-for-github.com/search)
 - [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes
+- [Dynamic GitHub README Quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes with layouts, animations and designs
 - [Profile Activity Generator](https://github.com/omidnikrah/profile-activity-generator) - Generate custom profile activity for your profile README
 - [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) - Are you an early 🐤 or a night 🦉? When are you most productive during the day? What languages you code in? And other stuff... Let's check out in your readme!
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
