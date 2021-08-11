@@ -1,3 +1,11 @@
+---
+title: MOB-atheist
+date: 2021-08-11
+spoiler: Creativity Readme Template
+categories: ["creativity", "all-profile"]
+githubUsername: 'MOB-atheist'
+---
+
 <p align="center">
   <a href="https://www.behance.net/gallery/116783825/CATIRA-OSCURA-VIDEO">
     <img alt="lofiart" src="https://raw.githubusercontent.com/MOB-atheist/MOB-atheist/main/gif2.gif" width="100%" />
