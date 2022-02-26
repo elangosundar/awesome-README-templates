@@ -35,7 +35,7 @@ const Header = () => {
           </button>
 
           <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
-            <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
+            <ul className="navbar-nav mr-auto mt-2 mt-lg-0" style={{margin-top: '16px !important'}}>
               <li className="nav-item active">
                 <Link to="/" className="nav-link navbar-link" href="void" title="Awesome Github Profile"> Home  <span className="sr-only">(current)</span> </Link>
               </li>
