@@ -1,3 +1,14 @@
+
+---
+title: Schleidens
+date: '2022-11-27'
+spoiler: Short and sweet Readme template
+categories: ["Short and sweet", "all-profile"]
+githubUsername: 'Schleidens'
+---
+
+
+
 # Hi there 👋 I'm Schleidens
 
 
@@ -53,3 +64,6 @@
 ## StreakStats 🚀
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Schleidens&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+⭐️ From [@Schleidens](https://github.com/Schleidens)
