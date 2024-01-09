@@ -1,38 +1,35 @@
 ---
-title: garimasingh128
-date: 2020-25-07
+title: oladigbs18
+date: 2024-01-09
 spoiler: Elaborate Readme Template
 categories: ["elaborate", "all-profile"]
-githubUsername: 'garimasingh128'
+githubUsername: 'oladigbs18'
 ---
 
-# Hello, geeks! 👋
+# Hello, Fams! 👋
+![gif 1](https://github.com/elangosundar/awesome-README-templates/assets/100875512/93c09dbc-33bd-4295-8947-ba5321c56444)
 
-I am Garima Singh. I consider myself as a smart worker and determined team player. I am an experienced developer skilled in C++, Java, Android Development, Full Stack Development, Machine learning, MERN, Javascript and its frameworks.
+I'm a Web Designer studying at Lagos State University. I am a creative, self-motivated, and hardworking individual with a strong desire to learn and grow professionally by creating innovative solutions for web and mobile applications. ents.
 
 ### 😄 Pronouns
 She/Her
 
 ### 🌱 What do I do?
-- ✔️Along with it, I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from National Institute of Technology, Patna.
+- ✔️ I am an Alpha Microsoft Learn Student Ambassador
 
-- ✔️I'm a fast learner looking for interesting career opportunities in Android and Web as a full-stack developer. I am awaiting a job with a decent salary and more importantly, a chance to build up my career and skills. I am looking for growth. Currently, I am looking for internships and research projects in the field of Computer science and engineering.
+- ✔️ I am continuously developing my skills to become a professional Software Engineer and deliver cutting-edge solutions to my clients.
 
-- ✔️My activities are much beyond my stream of education. I am involved in a lot of organizational works in college related to clubs, fests and workshops and helped in building many communities from scratch. Apart from this, I love the marketing and stocks field. I am a keen observer and always inquisitive to learn new things. I fit beautifully to the environment and add to the diversity of the team and research has shown that diversity often makes for better, most successful teams. 
+- ✔️ I am also a part of a community of major lead hacking and women who code.
 
 ### ⚡ One line that describes me best? 
-An ambitious girl who loves to cook fries, day dream at nights and sometime codes too.😉😉
+A goal getter, an analytical, dependable and responsible person
 
-### 👯 My other interests
-I have a knack for writing too and write on my personal blog- [Garima Codes](https://garimasingh.netlify.app/) or on [Medium](https://medium.com/@garingh128).
-I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
 ### 📫 How to reach me?
-If you would like to discuss these things, you can join me on [Twitter](https://twitter.com/GarimaS93930012) or [LinkedIn](https://www.linkedin.com/in/garima-singh-34042a177/). You can also ask me anything (within reason).
+If you would like to discuss these things, you can join me on [LinkedIn](https://www.linkedin.com/in/aaliyah-oladigbolu-54a452244/). You can also ask me anything (within reason).
 
 ### 💬 Want to know more about me?
-You can find me on- [My personal portfolio](http://garimasingh.me) and on [Sourcerer](https://sourcerer.io/garimasingh128).
-
+You can find me on- [My personal portfolio]([http://garimasingh.me](https://salmon-ocean-0e7883f0f-1.eastus2.4.azurestaticapps.net/)) 
 <!--
 **garimasingh128/garimasingh128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
