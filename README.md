@@ -15,7 +15,7 @@ This repo aims to collect the all `awesome beautiful READMEs profile` and make y
 
 If you are intersted, will create a PR for to add your `README` profile here.
 
-If you like this Repo, Please click the :star:
+If you like this repo, please click the :star:
 
 List of `awesome README Profile` categories mentioned below
 
