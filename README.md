@@ -11,9 +11,9 @@
 <br>
 <p align="center"><i>Loved the project? Please visit our <a href="https://awesome-github-readme-profile.netlify.app">Website</a></i></p>
 <br>
-This repo aims to collect the all `awesome beautiful READMEs profile` and make your Profile look good & Inspire other's.
+This repo aims to collect `awesome beautiful README profiles` and make your profile look good and inspire others.
 
-If you are intersted, will create a PR for to add your `README` profile here.
+If you are interested, create a PR to add your `README` profile here.
 
 If you like this Repo, Please click the :star:
 
