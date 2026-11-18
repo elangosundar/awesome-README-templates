@@ -67,6 +67,7 @@ Link : https://awesome-github-readme-profile.netlify.app
 - [Feedparser](https://pythonhosted.org/feedparser/) - Convenient processing of RSS files
 - [Github Profile README Generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - This project allows you to create nice and simple github profile readme files.
 - [Github Gist Count Generator](https://github.com/lifeparticle/Gist-Count) - Get gist count for your github readmes.
+- [ReadmeCraft](https://readme.bharatdn.com) - Intelligent dual-mode README studio with 41 native SVG badges, 63 themes, and 16 persona templates. Generates profile and repo READMEs from live GitHub data. ([Source](https://github.com/ErBharatMalhotra/readmecraft))
 
 # List out `Awesome README Profile` Articles
 
